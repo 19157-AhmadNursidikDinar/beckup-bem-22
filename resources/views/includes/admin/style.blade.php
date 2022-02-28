@@ -1,5 +1,5 @@
 <!-- Favicons -->
-<link href="{{ url('frontend/assets/img/Arthasastra Logo no text.png') }}" rel="icon">
+<link href="{{ url('frontend/assets/img/logo_22.png') }}" rel="icon">
 <link href="{{ url('frontend/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
 <!-- General CSS Files -->

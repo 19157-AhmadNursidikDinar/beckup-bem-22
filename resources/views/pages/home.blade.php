@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-BEM Fasilkom UNSIKA 2021 | Kabinet Arthasastra
+BEM Fasilkom UNSIKA 2022 | Kabinet Catralingga
 @endsection
 
 @section('content')
@@ -10,7 +10,7 @@ BEM Fasilkom UNSIKA 2021 | Kabinet Arthasastra
   <div class="container">
     <div class="row typing float-lg-start text-lg-start text-center text-md-center">
       <div class="col">
-        <!-- <small class="greeting" data-aos="fade-up" data-aos-delay="200">BEM Fasilkom UNSIKA 2021</small> -->
+        <!-- <small class="greeting" data-aos="fade-up" data-aos-delay="200">BEM Fasilkom UNSIKA 2022</small> -->
         <p data-aos="fade-up" data-aos-delay="200" class="fw-light">#Together <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
         <small class="lead mt-5 fw-bold" data-aos="fade-up" data-aos-delay="500">
           Selamat Datang! <br>
@@ -39,15 +39,13 @@ BEM Fasilkom UNSIKA 2021 | Kabinet Arthasastra
 
       <div class="row d-flex justify-content-center logo-filosofi">
         <div class="col-lg-3 offset-1">
-          <img src="{{ url('frontend/assets/img/Arthasastra Logo Sample 13.png') }}" alt="" width="220">
+          <img src="{{ url('frontend/assets/img/bawah_22.png') }}" alt="" width="220">
         </div>
         <div class="col-lg-7 deskripsi">
-          <p><strong>ARTHASASTRA</strong> secara filosofis merupakan sebuah kitab
-            mengenai risalah dan sistem administrasi tata negara terbaik yang pertama
-            kali ada pada abad ke-4 Sebelum Masehi. Sedangkan secara etimologis,
-            #ARTHASASTRA merupakan gabungan dari dua buah kata berbahasa
-            Sansekerta, yakni “Artha” yang dapat diartikan sebagai
-            agung/gunung/kebaikan serta “Sastra” yang berarti pedoman dan sarana.</p>
+          <p><strong>CATRALINGGA</strong> didasarkan pada dua kata dalam bahasa sansekerta catra dan lingga. 
+          “Catra” bermakna payung yang mengibaratkan BEM FASILKOM 2022 sebagai pelindung ormawa dalam lingkup FASILKOM 
+          dan “Lingga” yang diadaptasi dari nama kerajaan hindu Kalingga yang memiliki arti burung yang menunjukkan harapan 
+          dan tujuan BEM FASILKOM 2022 untuk terbang setinggi dan sejauh apapun untuk mencapai tujuan dengan sepasang sayapnya.</p>
           <a href="{{ route('filosofi') }}" class="btn btn-warning btn-modify text-light fw-bold mt-3">BACA LEBIH LENGKAP <i class="bi bi-arrow-right-square mx-2 icon-btn"></i></a>
         </div>
       </div>

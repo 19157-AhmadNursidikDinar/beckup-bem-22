@@ -3,7 +3,7 @@
 	<div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
 		<a href="{{ route('pkkmb') }}" class="logo d-flex align-items-center">
-			<img src="{{ url('pkkmb/assets/img/Arthasastra-Logo-Navbar.png') }}" alt="">
+			<img src="{{ url('pkkmb/assets/img/samping_22.png') }}" alt="">
 		</a>
 
 		@auth

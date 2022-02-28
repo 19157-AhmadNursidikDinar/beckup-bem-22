@@ -2,12 +2,12 @@
   <aside id="sidebar-wrapper">
     <div class="sidebar-brand mb-1">
       <a href="/">
-        <img src="{{ url('frontend/assets/img/Arthasastra-Logo-Navbar.png') }}" alt="" width="150">
+        <img src="{{ url('frontend/assets/img/logo_22.png') }}" alt="" width="150">
       </a>
     </div>
     <div class="sidebar-brand sidebar-brand-sm">
       <a href="/">
-        <img src="{{ url('frontend/assets/img/Arthasastra Logo no text.png') }}" alt="" width="30">
+        <img src="{{ url('frontend/assets/img/logo_22.png') }}" alt="" width="30">
       </a>
     </div>
     <ul class="sidebar-menu">

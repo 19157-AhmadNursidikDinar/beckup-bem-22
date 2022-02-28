@@ -33,8 +33,8 @@
 			</div>
 			<div class="row text-center mt-3">
 				<div class="col-md mt-3">
-					{{-- <p>Hak Cipta  BEM Fasilkom UNSIKA 2021<br>Departemen Pengembangan Teknologi Informasi</p> --}}
-          <p>Copyright &#169; 2021 Departemen Pengembangan Teknologi Informasi <br> BEM Fasilkom Unsika 2021</p>
+					{{-- <p>Hak Cipta  BEM Fasilkom UNSIKA 2022<br>Departemen Pengembangan Teknologi Informasi</p> --}}
+          <p>Copyright &#169; 2022 Departemen Pengembangan Teknologi Informasi <br> BEM Fasilkom UNSIKA 2022</p>
 				</div>
 			</div>
 		</div>

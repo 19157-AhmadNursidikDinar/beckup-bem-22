@@ -9,7 +9,7 @@
     <div class="d-flex flex-wrap align-items-stretch">
       <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white d-sm-block">
         <div class="p-4 m-3">
-          <img src="{{ asset('frontend/assets/img/Arthasastra-Logo-Circle.png') }}" alt="logo" width="100" class="shadow-light rounded-circle mb-4 mt-2">
+          <img src="{{ asset('frontend/assets/img/Circle_22.png') }}" alt="logo" width="100" class="shadow-light rounded-circle mb-4 mt-2">
           <h4 class="text-dark font-weight-normal">Selamat Datang</h4>
           <p class="text-muted">Semoga harimu menyenangkan!</p>
           <form method="POST" action="{{ route('login') }}" class="needs-validation" novalidate="">
@@ -58,7 +58,7 @@
           </form>
 
           <div class="text-center text-small mt-5" style="margin-bottom: 22.6vh">
-            Copyright © 2021  Departemen Pengembangan Teknologi Informasi <br> BEM Fasilkom Unsika 2021
+            Copyright © 2022  Departemen Pengembangan Teknologi Informasi <br> BEM Fasilkom UNSIKA 2022
           </div>
         </div>
       </div>

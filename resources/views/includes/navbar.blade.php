@@ -3,7 +3,7 @@
 	<div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
 		<a href="{{ route('home') }}" class="logo d-flex align-items-center">
-			<img src="{{ url('frontend/assets/img/Arthasastra-Logo-Navbar.png') }}" alt="">
+			<img src="{{ url('frontend/assets/img/samping_22.png') }}" alt="">
 			<!-- <span>BEM Fasilkom Unsika</span> -->
 		</a>
 

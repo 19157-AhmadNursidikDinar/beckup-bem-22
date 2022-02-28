@@ -1,5 +1,5 @@
 <!-- Favicons -->
-<link href="{{ url('pkkmb/assets/img/Arthasastra Logo no text.png') }}" rel="icon">
+<link href="{{ url('pkkmb/assets/img/logo_22.png') }}" rel="icon">
 <link href="{{ url('pkkmb/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
 <!-- Google Fonts -->

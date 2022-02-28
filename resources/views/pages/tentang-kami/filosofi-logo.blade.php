@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Filosofi Logo | Kabinet Arthasastra
+Filosofi Logo | Kabinet Catralingga
 @endsection
 
 @section('content')
@@ -11,30 +11,29 @@ Filosofi Logo | Kabinet Arthasastra
     <div class="container" data-aos="fade-up">
 
         <header class="section-header mt-5 fw-bold">
-            <p>Filosofi Logo BEM Fasilkom UNSIKA 2021</p>
+            <p>Filosofi Logo BEM Fasilkom UNSIKA 2022</p>
         </header>
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Arthasastra Logo Sample 13.png') }}" width="180" class="logo-arthasastra">
+                <img src="{{ url('frontend/assets/img/bawah_22.png') }}" width="180" class="logo-arthasastra">
             </div>
             <div class="col-md-6 deskripsi-arthasastra">
-                <h2>Nilai Arthasastra</h2>
-                <p>#ARTHASASTRA–secara filosofis merupakan sebuah kitab
-                    mengenai risalah dan sistem administrasi tata negara terbaik yang pertama
-                    kali ada pada abad ke-4 Sebelum Masehi. Sedangkan secara etimologis,
-                    #ARTHASASTRA merupakan gabungan dari dua buah kata berbahasa
-                    Sansekerta, yakni “Artha” yang dapat diartikan sebagai
-                    agung/gunung/kebaikan serta “Sastra” yang berarti pedoman dan sarana.</p>
+                <h2>Nilai Catralingga</h2>
+                <p>#CATRALINGGA–didasarkan pada dua kata dalam bahasa sansekerta catra dan lingga. 
+                    “Catra” bermakna payung yang mengibaratkan BEM FASILKOM 2022 sebagai pelindung ormawa dalam lingkup FASILKOM 
+                    dan “Lingga” yang diadaptasi dari nama kerajaan hindu Kalingga yang memiliki arti burung yang menunjukkan harapan 
+                    dan tujuan BEM FASILKOM 2022 untuk terbang setinggi dan sejauh apapun untuk mencapai tujuan dengan sepasang sayapnya.</p>
 
-                <p>Mengacu pada hal tersebut, kami memakai nama
-                    #ARTHASASTRA ini sebagai nama kabinet BEM Fasilkom UNSIKA
-                    Periode 2021 dengan harapan dan cita-cita menjadikan BEM Fasilkom
-                    UNSIKA sebagai organisasi mapan yang dapat memberikan manfaat
-                    besar bagi mahasiswa juga masyarakat.
-                    #ARTHASASTRA juga dapat diartikan sebagai sarana kebaikan
-                    yang disandingkan dengan seekor burung elang tangguh nan gagah yang
-                    fokus pada tujuan, senantiasa meningkatkan potensi diri, serta berdikari.</p>
+                <p>Mengacu pada hal tersebut, kami memakai nama Catralingga sebagai nama kabinet
+                    BEM FASILKOM UNSIKA periode 2022 dengan harapan dan cita-cita untuk menjadikan
+                    BEM FASILKOM UNSIKA sebagai organisasi yang dapat melindungi ormawa dalam
+                    lingkup Fakultas dan bisa mencapai tujuan-tujuan lainnya yang sudah dirumuskan bersama.</p>
+                
+                <p>Catralingga juga dapat diartikan sebagai sarana harapan dan tujuan yang
+                    dilambangkan dengan seekor burung Lingga yang tangguh nan gagah, untuk mencapai tujuan
+                    dengan sepasang sayapnya. Dengan lambang api diatasnya yang mengartikan semangat yang
+                    harus terus berkobar dalam BEM FASILKOM 2022.</p>
             </div>
         </div>
 

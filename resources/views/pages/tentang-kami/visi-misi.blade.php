@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-Visi Misi BEM Fasilkom | Kabinet Arthasastra
+Visi Misi BEM Fasilkom | Kabinet Catralingga
 @endsection
 
 @section('content')
@@ -11,7 +11,7 @@ Visi Misi BEM Fasilkom | Kabinet Arthasastra
     <div class="container" data-aos="fade-up">
 
         <header class="section-header mt-5 fw-bold">
-            <p>BEM Fasilkom UNSIKA 2021</p>
+            <p>BEM Fasilkom UNSIKA 2022</p>
         </header>
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">

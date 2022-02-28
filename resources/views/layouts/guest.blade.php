@@ -6,7 +6,7 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
         {{-- <title>{{ config('app.name', 'Laravel') }}</title> --}}
-        <title>BEM Fasilkom UNSIKA 2021</title>
+        <title>BEM Fasilkom UNSIKA 2022</title>
 
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
         <!-- Favicons -->
-        <link href="{{ url('frontend/assets/img/Arthasastra Logo no text.png') }}" rel="icon">
+        <link href="{{ url('frontend/assets/img/logo_22.png') }}" rel="icon">
         <link href="{{ url('frontend/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
         <!-- Scripts -->
