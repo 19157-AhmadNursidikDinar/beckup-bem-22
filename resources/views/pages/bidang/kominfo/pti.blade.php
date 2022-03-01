@@ -58,7 +58,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
             <div class="card">
               <div class="card-body">
                 <h4>Koordinator Departemen</h4>
-                <p>Rona Febriana</p>
+                <p>Ahmad Nursidik Dinar</p>
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
           <div class="card">
             <div class="card-body">
               <h4>Koordinator Departemen</h4>
-              <p>Rona Febriana</p>
+              <p>Ahmad Nursidik Dinar</p>
             </div>
           </div>
         </div> --}}
@@ -95,7 +95,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Irya Muhammad Riyadhi</p>
+                  <p>Fathan Pebrilliestyo R.</p>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Mohammad Bijantium Sinatria</p>
+                  <p>Anandito Rafi Putra</p>
                 </div>
               </div>
             </div>
@@ -114,7 +114,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
             <div class="card">
               <div class="card-body">
                 <h4>Anggota</h4>
-                <p>Irya Muhammad Riyadhi</p>
+                <p>Fathan Pebrilliestyo R.</p>
               </div>
             </div>
           </div>
@@ -123,7 +123,7 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
             <div class="card">
               <div class="card-body">
                 <h4>Anggota</h4>
-                <p>Mohammad Bijantium Sinatria</p>
+                <p>Anandito Rafi Putra</p>
               </div>
             </div>
           </div> --}}

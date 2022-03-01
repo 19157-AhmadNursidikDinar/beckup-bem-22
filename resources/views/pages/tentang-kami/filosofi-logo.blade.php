@@ -41,11 +41,11 @@ Filosofi Logo | Kabinet Catralingga
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Logo/Burung-Elang.png') }}" class="w-75">
+                <img src="{{ url('frontend/assets/img/Logo/burung.png') }}" class="w-75">
             </div>
             <div class="col-md-6">
-                <h2 class="mt-5">Burung Elang</h2>
-                <p>Melambangkan ketangguhan dan kegagahan, fokus pada tujuan, meningkatkan potensi diri dan berdikari.</p>
+                <h2 class="mt-5">Burung Lingga</h2>
+                <p>Melambangkan harapan dan tujuan BEM Fasilkom 2022 untuk terbang setinggi dan sejauh apapun untuk mencapai tujuan dengan sepasang sayapnya.</p>
             </div>
         </div>
 
@@ -53,11 +53,11 @@ Filosofi Logo | Kabinet Catralingga
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Logo/Lima-Bagian-Sayap.png') }}" class="w-75">
+                <img src="{{ url('frontend/assets/img/Logo/sayap.png') }}" class="w-75">
             </div>
             <div class="col-md-6">
-                <h2 class="mt-5">Lima Bagian Sayap</h2>
-                <p>Dengan makna lima sayap yang melambangkan 5 peran fungsi dari mahasiswa.</p>
+                <h2 class="mt-5">Bentuk Sayap</h2>
+                <p>Sayap yang membentuk payung bermakna untuk menjaga api yang berkobar agar tetap menyala.</p>
             </div>
         </div>
 
@@ -65,11 +65,11 @@ Filosofi Logo | Kabinet Catralingga
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Logo/Wifi.png') }}" class="w-75">
+                <img src="{{ url('frontend/assets/img/Logo/api.png') }}" class="w-75">
             </div>
             <div class="col-md-6">
-                <h2 class="mt-5">Wifi</h2>
-                <p>Simbol wifi melambangkan ciri khas dari Fakultas Ilmu Komputer.</p>
+                <h2 class="mt-5">Kobaran Api</h2>
+                <p>Kobaran api melambangkan semangat yang harus tetap berkobar dalam BEM Fasilkom 2022.</p>
             </div>
         </div>
 
@@ -77,11 +77,11 @@ Filosofi Logo | Kabinet Catralingga
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Logo/Tiga-Titik-Fokus.png') }}" class="w-75">
+                <img src="{{ url('frontend/assets/img/Logo/gir.png') }}" class="w-75">
             </div>
             <div class="col-md-6">
-                <h2 class="mt-5">Tiga Titik Fokus</h2>
-                <p>Dengan makna tiga titik yang melambangkan Tri Dharma Perguruan Tinggi.</p>
+                <h2 class="mt-5">Gear</h2>
+                <p>Sebagai simbol dimana dalam BEM semua harus berjalan seperti seharusnya.</p>
             </div>
         </div>
 
@@ -89,11 +89,35 @@ Filosofi Logo | Kabinet Catralingga
 
         <div class="row justify-content-center mt-5 mb-5 gap-5">
             <div class="col-md-3">
-                <img src="{{ url('frontend/assets/img/Logo/Padi.png') }}" class="w-75">
+                <img src="{{ url('frontend/assets/img/Logo/lancip.png') }}" class="w-75">
             </div>
             <div class="col-md-6">
-                <h2 class="mt-5">Padi</h2>
-                <p>Dengan makna Fasilkom Unsika berlokasi di Karawang dan Karawang merupakan kota lumbung padi.</p>
+                <h2 class="mt-5">5 Bagian Lancip Sayap</h2>
+                <p>5 bagian sayap yang melambangkan 5 peran dan fungsi mahasiswa.</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row justify-content-center mt-5 mb-5 gap-5">
+            <div class="col-md-3">
+                <img src="{{ url('frontend/assets/img/Logo/merah.png') }}" class="w-75">
+            </div>
+            <div class="col-md-6">
+                <h2 class="mt-5">Warna Merah</h2>
+                <p>Warna merah melambangkan tekad, semangat, hasrat, dan juga cinta.</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row justify-content-center mt-5 mb-5 gap-5">
+            <div class="col-md-3">
+                <img src="{{ url('frontend/assets/img/Logo/jingga.png') }}" class="w-75">
+            </div>
+            <div class="col-md-6">
+                <h2 class="mt-5">Warna Jingga</h2>
+                <p>Warna jingga melambangkan rasa antusias, kreatifitas, dan juga kebulatan.</p>
             </div>
         </div>
 

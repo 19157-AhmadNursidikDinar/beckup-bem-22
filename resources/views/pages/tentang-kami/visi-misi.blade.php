@@ -20,9 +20,9 @@ Visi Misi BEM Fasilkom | Kabinet Catralingga
             </div>
             <div class="col-md-6">
                 <h2>Visi</h2>
-                <p>Terwujudnya BEM Fasilkom UNSIKA yang dedikatif dan proaktif
-                    bagi kemajuan mahasiswa Fasilkom UNSIKA, masyarakat, serta bangsa
-                    Indonesia.</p>
+                <p>Berasaskan kolektivitas untuk BEM FASILKOM UNSIKA yang kritis, responsif dan
+                    prestatif sebagai bentuk tanggung jawab sosial kepada mahasiswa/i, masyarakat serta
+                    bangsa Indonesia.</p>
             </div>
         </div>
 
@@ -32,13 +32,12 @@ Visi Misi BEM Fasilkom | Kabinet Catralingga
             <div class="col-md-6">
                 <h2 class="mb-4">Misi</h2>
                 <ol>
-                    <li>Mengembangkan program kerja yang bersifat dedikatif sebagai
-                        implementasi dari nilai-nilai Tri Dharma Perguruan Tinggi.</li>
-                    <li>Memberikan pelayanan advokasi yang proaktif dan tanggap terhadap isu-isu
-                        yang berkembang di Fasilkom UNSIKA dan Masyarakat.</li>
-                    <li>Mengoptimalkan seluruh kegiatan BEM Fasilkom UNSIKA yang
-                        mampu berkolaborasi dengan setiap elemen yang ada di Fasilkom
-                        UNSIKA.</li>
+                    <li>Mewadahi minat dan bakat mahasiswa FASILKOM UNSIKA guna meningkatkan
+                        minat dan bakat serta prestasi mahasiswa FASILKOM UNSIKA.</li>
+                    <li>Responsif terharap isu yang berkembang baik di universitas, daerah, maupun nasional
+                        sesuai dengan peran dan fungsi mahasiswa.</li>
+                    <li>Memberikan pelayanan advokasi yang reaktif dalam penyelesaian persoalan
+                        mahasiswa FASILKOM UNSIKA.</li>
                 </ol>
             </div>
             <div class="col-md-3">
