@@ -32,6 +32,10 @@ Keilmuan | Kabinet Arthasastra
               Meningkatkan dan memaksimalkan minat dan bakat mahasiswa untuk
               berkarya inovatif.
             </li>
+            <li>
+              Bertanggung jawab dalam meningkatkan dan mengembangkan potensi prestasi mahasiswa 
+              FASILKOM UNSIKA dalam kegiatan kompetisi lokal, nasional, maupun internasional.
+            </li>
           </ol>
         </div>
 

@@ -58,7 +58,7 @@ Media | Kabinet Arthasastra
             <div class="card">
               <div class="card-body">
                 <h4>Koordinator Departemen</h4>
-                <p>Lorenzo Tunggul I. S.</p>
+                <p>Novanto Ramadhan</p>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ Media | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Modesta Rika Pertiwi</p>
+                  <p>Aditya Pramudya</p>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ Media | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Rizkiansyah</p>
+                  <p>Naufaldi Mahardika</p>
                 </div>
               </div>
             </div>
@@ -113,7 +113,7 @@ Media | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Syahrul Chotamy</p>
+                  <p>Irna Purnahasanah</p>
                 </div>
               </div>
             </div>
