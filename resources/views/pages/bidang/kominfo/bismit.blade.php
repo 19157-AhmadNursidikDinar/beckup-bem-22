@@ -58,7 +58,7 @@ Bisnis dan Kemitraan | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Koordinator Departemen</h4>
-                  <p>Rizky Aditya</p>
+                  <p>Septian Bimo Hartanto</p>
                 </div>
               </div>
             </div>
@@ -95,7 +95,7 @@ Bisnis dan Kemitraan | Kabinet Arthasastra
                 <div class="card">
                   <div class="card-body">
                     <h4>Anggota</h4>
-                    <p>Fauzan Gani Nurmaizal</p>
+                    <p>Fanny Suyantoputri</p>
                   </div>
                 </div>
               </div>
@@ -104,7 +104,7 @@ Bisnis dan Kemitraan | Kabinet Arthasastra
                 <div class="card">
                   <div class="card-body">
                     <h4>Anggota</h4>
-                    <p>Mohammad Bukhori Pratama</p>
+                    <p>Ray Rizky Fawzy</p>
                   </div>
                 </div>
               </div>

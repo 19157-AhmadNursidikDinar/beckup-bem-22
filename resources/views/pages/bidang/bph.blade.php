@@ -41,7 +41,7 @@ Badan Pengurus Harian | Kabinet Arthasastra
                     <p>{{ $item->nama }}</p>
                   @endif
                 @endforeach
-                {{-- <p>Ginal Fikri Al Hakim</p> --}}
+                {{-- <p>Mohamad Alda.</p> --}}
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@ Badan Pengurus Harian | Kabinet Arthasastra
                     <p>{{ $item->nama }}</p>
                   @endif
                 @endforeach
-                {{-- <p>Muhammad Rizal V.</p> --}}
+                {{-- <p>Abidzard Lintang Adhiasta </p> --}}
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@ Badan Pengurus Harian | Kabinet Arthasastra
                     <p>{{ $item->nama }}</p>
                   @endif
                 @endforeach
-                {{-- <p>Eno Hakimah K. D.</p> --}}
+                {{-- <p>Nur Rizqi Alfiah. </p> --}}
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ Badan Pengurus Harian | Kabinet Arthasastra
                     <p>{{ $item->nama }}</p>
                   @endif
                 @endforeach
-                {{-- <p>Nur Rizqi Alfiah</p> --}}
+                {{-- <p>Puput Silva Rosiana</p> --}}
               </div>
             </div>
           </div>

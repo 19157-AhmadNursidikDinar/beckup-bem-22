@@ -58,7 +58,7 @@ Hubungan Masyarakat | Kabinet Arthasastra
             <div class="card">
               <div class="card-body">
                 <h4>Koordinator Departemen</h4>
-                <p>Bintang Zulfikar Ramadhan</p>
+                <p>Najmil Hayah</p>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ Hubungan Masyarakat | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>M. Rendi Bagus Priawan</p>
+                  <p>Ilhan Firaldi</p>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ Hubungan Masyarakat | Kabinet Arthasastra
               <div class="card">
                 <div class="card-body">
                   <h4>Anggota</h4>
-                  <p>Reynold Julian Tamba</p>
+                  <p>Annabella Dian Dameria Sinambela</p>
                 </div>
               </div>
             </div>
