@@ -17,15 +17,15 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Mewujudkan BEM Fasilkom UNSIKA yang memaksimalkan teknologi informasi serta
-            memberikan manfaat untuk masyarakat umum, khususnya masyarakat Fasilkom
+          <p>Mewujudkan BEM FASIKOM UNSIKA yang memaksimalkan teknologi informasi serta
+            memberikan manfaat untuk masyarakat umum, khususnya masyarakat FASILKOM
             UNSIKA.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Memaksimalkan kinerja BEM Fasilkom UNSIKA dengan menjalin hubungan
-              antar departemen yang ada di BEM Fasilkom UNSIKA.
+            <li>Memaksimalkan kinerja BEM FASILKOM UNSIKA dengan menjalin hubungan
+              antar departemen yang ada di BEM FASILKOM UNSIKA.
             </li>
             <li>
               Menciptakan SDM yang bermutu serta dapat berpikir kreatif dan inovatif sehingga
@@ -33,8 +33,8 @@ Pengembangan Teknologi dan Informasi | Kabinet Arthasastra
             </li>
             <li>
               Melakukan maintenance atau perawatan pada sistem yang telah dibuat agar tetap
-              aktual, efektif dan nyaman digunakan oleh masyarakat umum, khususnya
-              masyarakat Fasilkom UNSIKA
+              aktual, efektif, dan nyaman digunakan oleh masyarakat umum, khususnya
+              masyarakat FASILKOM UNSIKA.
             </li>
           </ol>
         </div>

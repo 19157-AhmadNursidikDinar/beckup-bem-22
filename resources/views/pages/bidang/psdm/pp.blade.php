@@ -17,32 +17,32 @@ Pengembangan dan Pengawasan | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menjadikan Departemen Pengembangan dan Pengawasan sebagai wadah pembentukan karakter pengurus
-            yang fungsionaris dan profesionalis demi terciptanya Pengurus BEM Fasilkom UNSIKA yang sesuai dengan
+          <p>Menjadikan departemen pengembangan dan pengawasan sebagai wadah pembentukan karakter pengurus
+            yang fungsionaris dan profesionalis demi terciptanya Pengurus BEM FASILKOM UNSIKA yang sesuai dengan
             nilai dan budaya yang dimiliki.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Meningkatkan potensi (soft skill dan hard skill) interpersonal fugsionaris BEM Fasilkom
+            <li>Meningkatkan potensi (soft skill dan hard skill) interpersonal fugsionaris BEM FASILKOM
               UNSIKA.
             </li>
             <li>
-              Meningkatkan motivasi seluruh pengurus BEM Fasilkom UNSIKA.
+              Meningkatkan motivasi seluruh pengurus BEM FASILKOM UNSIKA.
             </li>
             <li>
-              Membentuk karakter fungsionaris BEM Fasilkom UNSIKA yang sesuai dengan nilai dan budaya
+              Membentuk karakter fungsionaris BEM FASILKOM UNSIKA yang sesuai dengan nilai dan budaya
               yang dimiliki.
             </li>
             <li>
-              Melakukan pengawasan dan evaluasi terhadap kinerja internal BEM Fasilkom Unsika.
+              Melakukan pengawasan dan evaluasi terhadap kinerja internal BEM FASILKOM Unsika.
             </li>
             <li>
-              Melakukan pengawasan setiap kegiatan yang telah dilakukan oleh BEM Fasilkom UNSIKA.
+              Melakukan pengawasan setiap kegiatan yang telah dilakukan oleh BEM FASILKOM UNSIKA.
             </li>
             <li>
               Memberikan masukan kepada ketua atas hasil pengawasan serta evaluasi kegiatan dan kinerja
-              internal BEM Fasilkom UNSIKA
+              internal BEM FASILKOM UNSIKA
             </li>
           </ol>
         </div>

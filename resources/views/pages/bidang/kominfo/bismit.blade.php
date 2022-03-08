@@ -17,14 +17,14 @@ Bisnis dan Kemitraan | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menjadikan Departemen Bisnis dan Kemitraan BEM Fasilkom UNSIKA sebagai sumber
+          <p>Menjadikan departemen bisnis dan kemitraan BEM FASILKOM UNSIKA sebagai sumber
             finansial mandiri yang utama dengan berdasarkan pada aspek kebermanfaatan dan
             kemitraan serta kekeluargaan.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Membangun internal BEM Fasilkom UNSIKA yang mengutamakan kekeluargaan.
+            <li>Membangun internal BEM F ASILKOM UNSIKA yang mengutamakan kekeluargaan.
             </li>
             <li>
               Menciptakan SDM yang berguna serta mandiri di bidang finansial.
@@ -33,9 +33,9 @@ Bisnis dan Kemitraan | Kabinet Arthasastra
               Meningkatkan kualitas SDM yang dapat berpikir kreatif inovatif dalam hal dunia bisnis.
             </li>
             <li>Menjalin kerja sama dengan lembaga atau instansi terkait sehingga dapat memberikan
-              timbal balik yang bersikap positif bagi Departemen Bisnis dan Kemitraan yang
-              bermanfaat bagi sesama</li>
-            <li>Menjadikan program kerja Departemen Bisnis dan Kemitraan yang bermanfaat bagi
+              timbal balik yang bersikap positif bagi departemen bisnis dan kemitraan yang
+              bermanfaat bagi sesama.</li>
+            <li>Menjadikan program kerja departemen bisnis dan kemitraan yang bermanfaat bagi
               sesama.</li>
           </ol>
         </div>

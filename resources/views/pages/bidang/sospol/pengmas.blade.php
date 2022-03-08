@@ -17,17 +17,17 @@ Pengabdian Masyarakat | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Membentuk mahasiswa Fakultas Ilmu Komputer yang peduli serta memiliki jiwa
+          <p>Membentuk mahasiswa/i FASILKOM UNSIKA yang peduli serta memiliki jiwa
             pengabdian yang tinggi berlandaskan tri darma perguruan tinggi.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Meningkatkan rasa kepekaan dan kepedulian mahasiswa
-              Fasilkom UNSIKA terhadap kondisi sekitar.
+            <li>Meningkatkan rasa kepekaan dan kepedulian mahasiswa/i
+              FASILKOM UNSIKA terhadap kondisi sekitar.
             </li>
             <li>
-              Menumbuhkan kesadaran mahasiswa Fasilkom Unsika untuk
+              Menumbuhkan kesadaran mahasiswa/i FASILKOM UNSIKA untuk
               mengabdikan diri kepada masyarakat.
             </li>
           </ol>

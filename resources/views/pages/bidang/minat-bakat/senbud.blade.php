@@ -17,24 +17,24 @@ Seni Budaya | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Mengembangkan serta mewadahi minat dan bakat mahasiswa Fasilkom UNSIKA
+          <p>Mengembangkan serta mewadahi minat dan bakat mahasiswa/i FASILKOM UNSIKA
             dalam bidang seni dan budaya guna meningkatkan rasa cinta dan kepedulian terhadap
-            Seni dan Budaya yang ada di Indonesia.</p>
+            seni dan budaya yang ada di Indonesia.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Mengadakan pelatihan kesenian secara rutin sehingga mahasiswa Fasilkom
+            <li>Mengadakan pelatihan kesenian secara rutin sehingga mahasiswa/i Fasilkom
               UNSIKA bisa mahir pada setiap bidangnya dan bisa saling berbagi ilmu yang telah
-              didapatkannya, serta menjaga silahturahmi antar mahasiswa.
+              didapatkannya, serta menjaga silahturahmi antar mahasiswa/i.
             </li>
             <li>
-              Mengembangkan minat dan bakat mahasiswa Fasilkom UNSIKA mampu
+              Mengembangkan minat dan bakat mahasiswa/i FASILKOM UNSIKA  sehingga mampu
               berkompetisi dengan pihak internal maupun eksternal.
             </li>
             <li>
-              Meningkatkan kemampuan mahasiswa Fasilkom UNSIKA di bidang seni dan
-              budaya dalam
+              Meningkatkan kemampuan mahasiswa/i FASILKOM UNSIKA di bidang seni dan
+              budaya dalam  setiap bidangnya masing-masing.
             </li>
           </ol>
         </div>

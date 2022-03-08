@@ -17,14 +17,14 @@ Media | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menjadikan Departemen Media sebagai sarana penyampaian informasi dan komunikasi
-            serta menambah eksistensi BEM Fasilkom UNSIKA.</p>
+          <p>Menjadikan departemen media sebagai sarana penyampaian informasi dan komunikasi
+            serta menambah eksistensi BEM FASILKOM UNSIKA.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
             <li>Sebagai alat untuk menampung berbagai informasi dari seluruh mahasiswa Unsika,
-              khususnya mahasiswa Fasilkom UNSIKA.
+              khususnya mahasiswa FASILKOM UNSIKA.
             </li>
             <li>
               Mengolah dan memfilter berbagai informasi yang didapat agar menjadi suatu

@@ -17,22 +17,22 @@ Kaderisasi | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menumbuhkan rasa solidaritas dan jiwa kepemimpinan antar Mahasiswa Fasilkom
-            UNSIKA demi Fasilkom UNSIKA yang lebih berkarakter</p>
+          <p>Menumbuhkan rasa solidaritas dan jiwa kepemimpinan antar Mahasiswa/i FASILKOM
+            UNSIKA demi FASILKOM UNSIKA yang lebih berkarakter.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
             <li>Menyelenggarakan kegiatan yang bertujuan untuk membentuk karakter
-              kepemimpinan Mahasiswa Fasilkom UNSIKA
+              kepemimpinan Mahasiswa/i FASILKOM UNSIKA.
             </li>
             <li>
               Memberdayakan kegiatan yang bertujuan untuk menciptakan penerus
-              fungsionaris BEM Fasilkom UNSIKA yang berkompeten.
+              fungsionaris BEM FASILKOM UNSIKA yang berkompeten.
             </li>
             <li>
               Memantau pelaksanaan kegiatan kaderisasi dalam ruang lingkup lingkungan
-              Fasilkom UNSIKA.
+              FASILKOM UNSIKA.
             </li>
           </ol>
         </div>

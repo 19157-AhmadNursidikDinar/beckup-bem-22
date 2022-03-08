@@ -17,23 +17,22 @@ Advokasi Kesejahteraan Mahasiswa | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Terwujudnya ADKESMA BEM Fasilkom UNSIKA yang aktif, terbuka, dan bersinergi
-            dengan setiap elemen yang ada di Fasilkom UNSIKA</p>
+          <p>Terwujudnya ADKESMA BEM FASILKOM UNSIKA yang aktif, terbuka, dan bersinergi
+            dengan setiap elemen yang ada di FASILKOM UNSIKA.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Mengadakan pelatihan kesenian secara rutin sehingga mahasiswa Fasilkom
-              UNSIKA bisa mahir pada setiap bidangnya dan bisa saling berbagi ilmu yang telah
-              didapatkannya, serta menjaga silahturahmi antar mahasiswa.
+            <li>Menampung segala bentuk permasalahan mahasiswa/i 
+              FASILKOM UNSIKA secara maksimal.
             </li>
             <li>
-              Mengembangkan minat dan bakat mahasiswa Fasilkom UNSIKA mampu
-              berkompetisi dengan pihak internal maupun eksternal.
+              Berusaha menyelesaikan setiap permasalahan yang telah disampaikan oleh
+              mahasiswa/i FASILKOM UNSIKA.
             </li>
             <li>
-              Meningkatkan kemampuan mahasiswa Fasilkom UNSIKA di bidang seni dan
-              budaya dalam setiap bidangnya masing-masing
+              Memfasilitasi mahasiswa/i FASILKOM UNSIKA dalam menyampaikan
+              semua permasalahannya.
             </li>
           </ol>
         </div>

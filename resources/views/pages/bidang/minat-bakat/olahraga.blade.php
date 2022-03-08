@@ -18,26 +18,26 @@ Olahraga | Kabinet Arthasastra
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
           <p>Membuat suasana kekeluargaan di dalam olahraga Fasilkom UNSIKA semakin erat dan
-            siap membangun olahraga di Fasilkom UNSIKA ke arah yang lebih baik dan maju.</p>
+            siap membangun olahraga di FASILKOM UNSIKA ke arah yang lebih baik dan maju.</p>
         </div>
         <div class="col-md-4 mt-2">
           <h5 class="text-center">Misi</h5>
           <ol>
-            <li>Menjalankan proker dengan efektif demi kemajuan olahraga di Fasilkom
+            <li>Menjalankan proker dengan efektif demi kemajuan olahraga di FASILKOM
               UNSIKA.
             </li>
             <li>
               Siap menampung minat dan bakat mahasiswa di bidang olahraga khususnya
-              Fasilkom UNSIKA.
+              FASILKOM UNSIKA.
             </li>
             <li>
-              Mencetak prestasi untuk Fasilkom khususnya di bidang olahraga.
+              Mencetak prestasi untuk FASILKOM khususnya di bidang olahraga.
             </li>
             <li>
-              Mencari bibit generasi olahraga di Fasilkom UNSIKA.
+              Mencari bibit generasi olahraga di FASILKOM UNSIKA.
             </li>
             <li>
-              Melakukan pengawasan setiap kegiatan yang telah dilakukan oleh BEM Fasilkom UNSIKA.
+              Menjadikan FASILKOM UNSIKA yang lebih solid.
             </li>
           </ol>
         </div>

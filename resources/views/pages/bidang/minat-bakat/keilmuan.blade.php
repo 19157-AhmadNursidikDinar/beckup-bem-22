@@ -17,7 +17,7 @@ Keilmuan | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Membangun dan memaksimalkan nuansa pendidikan Fasilkom UNSIKA yang
+          <p>Membangun dan memaksimalkan bidang pendidikan, profesi, FASILKOM UNSIKA yang
             inovatif, kreatif, dan berkesinambungan.</p>
         </div>
         <div class="col-md-4 mt-2">
@@ -29,11 +29,11 @@ Keilmuan | Kabinet Arthasastra
               Membuat program kerja kreatif yang berkesinambungan.
             </li>
             <li>
-              Meningkatkan dan memaksimalkan minat dan bakat mahasiswa untuk
+              Meningkatkan dan memaksimalkan minat dan bakat mahasiswa/i untuk
               berkarya inovatif.
             </li>
             <li>
-              Bertanggung jawab dalam meningkatkan dan mengembangkan potensi prestasi mahasiswa 
+              Bertanggung jawab dalam meningkatkan dan mengembangkan potensi prestasi mahasiswa/i 
               FASILKOM UNSIKA dalam kegiatan kompetisi lokal, nasional, maupun internasional.
             </li>
           </ol>

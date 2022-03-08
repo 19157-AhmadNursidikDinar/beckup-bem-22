@@ -17,7 +17,7 @@ Kajian dan Aksi Strategis | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menjadikan departemen Kajian dan Aksi Strategis sebagai pionir kajian permasalahan
+          <p>Menjadikan departemen kajian dan aksi strategis sebagai pionir kajian permasalahan
             serta meningkatkan literasi dengan kajian permasalahan yang berkembang.</p>
         </div>
         <div class="col-md-4 mt-2">

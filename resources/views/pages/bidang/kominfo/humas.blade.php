@@ -17,7 +17,7 @@ Hubungan Masyarakat | Kabinet Arthasastra
         </div>
         <div class="col-md-4">
           <h5 class="text-center mt-4">Visi</h5>
-          <p>Menjadikan Departemen Humas sebagai pusat pelayanan komunikasi dan menjadi
+          <p>Menjadikan departemen humas sebagai pusat pelayanan komunikasi dan menjadi
             wadah pertukaran informasi publik dalam membangun koneksi antar relasi yang
             terstruktur dan proposional dalam lingkup internal maupun eksternal.</p>
         </div>
@@ -25,7 +25,7 @@ Hubungan Masyarakat | Kabinet Arthasastra
           <h5 class="text-center">Misi</h5>
           <ol>
             <li>Mengemban hubungan yang dinamis dan harmonis dengan lembaga
-              departemen/non-departemen.
+              departemen maupun non departemen.
             </li>
             <li>
               Membangun jaringan dan partisipasi pihak-pihak terkait dengan baik dari internal
